@@ -34,3 +34,5 @@ dist-ssr
 # Backend secrets
 server/.env
 server/serviceAccount.json
+*.json
+ai-assistant-yash-firebase-adminsdk-fbsvc-79adffb9a3.json
